@@ -7,7 +7,7 @@
 **AI and automation studio for small, owner-run businesses 🇩🇪**
 
 [![Website](https://img.shields.io/badge/🌐_Website-ordnexa.com-0b5fff?style=for-the-badge)](https://ordnexa.com)
-[![Email](https://img.shields.io/badge/✉️_Contact-github%40ordnexa.com-444?style=for-the-badge)](mailto:github@ordnexa.com)
+[![Email](https://img.shields.io/badge/✉️_Contact-info%40ordnexa.com-444?style=for-the-badge)](mailto:info@ordnexa.com)
 ![Stage](https://img.shields.io/badge/🌱_Stage-early-2ea44f?style=for-the-badge)
 
 </div>
